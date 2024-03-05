@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-<img alt="React" src="https://img.shields.io/badge/dynamic/json?logo=%23E97627" />
+<img alt="React" src="https://img.shields.io/badge/dynamic/json?logo=tableau" />
 <!--
 **DishaK06/DishaK06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
