@@ -1,8 +1,8 @@
   ### Hi there 👋
-
+https://img.shields.io/badge/dynamic/json?logo=%23E97627
 <!--
 **DishaK06/DishaK06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/badge/dynamic/json?logo=%23E97627
+
 
 Here are some ideas to get you started:
 
