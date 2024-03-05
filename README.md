@@ -31,19 +31,19 @@ I am a <b>Masters</b> in Business Analysis student at 🎓<b>SUNY Buffalo</b><a 
 <h3>Roles I am interested in:</h3>
 <p>
   
-  🎯Data Analyst    
+  🎯<b>Data Analyst</b>    
 
-  🎯Business Analyst     
+  🎯<b>Business Analyst</b>     
   
-  🎯System Analyst     
+  🎯<b>System Analyst</b>     
   
-  🎯Data Engineer    
+  🎯<b>Data Engineer</b>    
   
 </p>
 <br>
 
 
-
+<h3>Contact details</h3>
 <b>Connect with me on [![Linkedin: Disha](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/disha-kursange/) and let's have a chat!</b>
 <br><i>or</i><br>
 <b>You can reach out to me on [![Gmail: Disha](https://img.shields.io/badge/-dishakge@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dishakge@gmail.com)
