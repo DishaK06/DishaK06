@@ -2,7 +2,7 @@
 I am a <b>Masters</b> in Business Analysis student at 🎓<b>SUNY Buffalo</b><a href="https://www.buffalo.edu/" color="black">🔗</a>
 <br>
 
-<h3>Things I excel at:</h3>
+## Things I excel at
 <p>
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white" />
@@ -28,22 +28,23 @@ I am a <b>Masters</b> in Business Analysis student at 🎓<b>SUNY Buffalo</b><a 
 <p align="center">
 <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif?cid=790b7611tvqg3umcci5qljuhjxkcu1qfceot86lzn2mpnule&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="250">
 </p>
-<h3>Roles I am interested in:</h3>
-<p>
-  
-  🎯<b>Data Analyst</b>    
 
-  🎯<b>Business Analyst</b>     
+## 🎯Roles I am interested in
+<ul>
   
-  🎯<b>System Analyst</b>     
+  <li>Data Analyst</li>   
+
+  <li>Business Analyst</li>     
   
-  🎯<b>Data Engineer</b>    
+  <li>System Analyst</li>     
   
-</p>
+  <li>Data Engineer</li>    
+  
+</ul>
 <br>
 
 
-<h3>Contact details</h3>
+## Contact details
 <p>
   
 <b>Connect with me on [![Linkedin: Disha](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/disha-kursange/) and let's have a chat!</b>
